@@ -1,5 +1,5 @@
 # Função de Converção de Bases Numéricas
-![GitHub](https://img.shields.io/github/license/ViniUme/Function-Decimal-Convert?color=%230011DD&logo=https%3A%2F%2Fgithub.com%2FViniUme%2FFunction-Decimal-Convert%2Fblob%2Fmaster%2FLICENSE&style=flat-square)
+[![NPM](https://img.shields.io/npm/l/react?color=%230011DD)](https://github.com/ViniUme/Function-Decimal-Convert/blob/master/LICENSE)
 
 Um conjunto de funções contidas em uma para converter um número decimal para outras bases numéricas, sendo elas: binário, octogonal e hexadecimal.
 
