@@ -18,6 +18,14 @@ Essa função tem que ser atribuida à alguma variável. Depois, dentro do argum
 
 Para Binário, Octagonal e Hexadecimal respectivamente. Ou apenas digitando o numero da base: 2, 8, ou 16, respectivamente.
 
+## Fluxogramas
+
+### Fluxograma do funcionamento da função Convert()
+![exemplo](https://github.com/ViniUme/assets/blob/master/ex4.png)
+
+### Fluxograma do funcionamento da função de converção para Binário
+![exemplo](https://github.com/ViniUme/assets/blob/master/ex5.png)
+
 ## Detalhes
 
 Números convertidos na base binária ou octagonal, retornam valores em tipo Int, enquanto números convertidos em hexadecimal retornam uma string.
