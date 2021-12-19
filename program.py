@@ -55,7 +55,7 @@ def Convert (decimal_number, base_to_convert):
         del numHex[0]
         
         if (numDec == 0):
-            return "null"
+            return 0
 
         while (numDec > 1):
             if ((numDec %  16) == 10):
