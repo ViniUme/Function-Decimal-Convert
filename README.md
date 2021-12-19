@@ -32,6 +32,18 @@ Para Binário, Octagonal e Hexadecimal respectivamente. Ou apenas digitando o nu
 <img src="https://user-images.githubusercontent.com/66230638/146640046-59e3592e-c474-492b-823f-2dc0fb78592e.png" width="800px" />
 </div>
 
+### Fluxograma do funcionamento da função de converção para Octagonal
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/66230638/146669223-9a4858f4-ed29-47a3-842c-b1f7bcaf9a94.png" width="800px" />
+</div>
+
+### Fluxograma do funcionamento da função de converção para Hexadecimal
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/66230638/146669224-6b5f170b-29c8-4379-86d8-2b0e2e7e964e.png" width="800px" />
+</div>
+
 ## Detalhes
 
 Números convertidos na base binária ou octagonal, retornam valores em tipo Int, enquanto números convertidos em hexadecimal retornam uma string.
