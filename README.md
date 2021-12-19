@@ -12,7 +12,7 @@ Será possível usar o comando
 
 ![ex2](https://user-images.githubusercontent.com/66230638/146640043-58da1ef8-79fa-421b-8d0f-ecc33114493b.PNG)
 
-Essa função tem que ser atribuida à alguma variável. Depois, dentro do argumento da função, primeiro você escreve o número decimal que será convertido, o segundo argumento será a base para qual o numero decimal será  convertido e pode ser escrito desta forma:
+Essa função tem que ser atribuida à alguma variável. Depois, dentro do parametro da função, primeiro você escreve o número decimal que será convertido, o segundo parametro será a base para qual o numero decimal será  convertido e pode ser escrito desta forma:
 
 ![ex3](https://user-images.githubusercontent.com/66230638/146640044-fb5af5d4-2968-4017-8d6e-48519276c893.PNG)
 
