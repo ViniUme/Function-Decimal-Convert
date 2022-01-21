@@ -1,50 +1,53 @@
-# Função de Converção de Bases Numéricas
-[![NPM](https://img.shields.io/npm/l/react?color=%230011DD)](https://github.com/ViniUme/Function-Decimal-Convert/blob/master/LICENSE)
+# <div align="center">Base Number Converter Function</div>
 
-Um conjunto de funções contidas em uma para converter um número decimal para outras bases numéricas, sendo elas: binário, octogonal e hexadecimal.
+<div align="center">
+  <a href="https://github.com/ViniUme/Function-Decimal-Convert/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/ViniUme/Function-Decimal-Convert?color=%236253CB&style=for-the-badge"></a>
+</div>
 
-## Como usar
-Depois de ter importado a função com o comando:
+## About
+A functions group inside in one function, to convert decimal numbers to others numbers bases, being then: binary, octagonal and hexadecimal.
 
-![ex1](https://user-images.githubusercontent.com/66230638/146639986-8016ed4d-64be-47ca-9dfe-b54c6b74b790.PNG)
+## How to Use
+After of import the function with command:
 
-Será possível usar o comando
+    from program impoprt Converter
 
-![ex2](https://user-images.githubusercontent.com/66230638/146640043-58da1ef8-79fa-421b-8d0f-ecc33114493b.PNG)
+You can assing a function to a variable, by passing the values, first value is the decimal number to convert and the other value is the base to convert number. See the examples bellow:
 
-Essa função tem que ser atribuida à alguma variável. Depois, dentro do parametro da função, primeiro você escreve o número decimal que será convertido, o segundo parametro será a base para qual o numero decimal será  convertido e pode ser escrito desta forma:
+    x = Convert(20,"Bin") # return 10100 as type int
+    x = Convert(30,"Oct") # return 36 as type int
+    x = Convert(15,"Hex") # return "F" as type sting
 
-![ex3](https://user-images.githubusercontent.com/66230638/146640044-fb5af5d4-2968-4017-8d6e-48519276c893.PNG)
+In value of the conversion base, you can by passing the value in number format, as:
 
-Para Binário, Octagonal e Hexadecimal respectivamente. Ou apenas digitando o numero da base: 2, 8, ou 16, respectivamente.
+    x = Convert(20,2) # return 10100 as type int
+    x = Convert(30,8) # return 36 as type int
+    x = Convert(15,16) # return "F" as type sting
 
-## Fluxogramas
+## Flowcharts
 
-### Fluxograma do funcionamento da função Convert()
+### This is the flowcharts that i used to create the program, sorry, the flowcharts is on portuguese
+
+### Flowchart of function Convert()
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/66230638/146640045-4afc277e-0661-41c4-aca4-f86f679406e3.png" width="700px" />
 </div>
 
-### Fluxograma do funcionamento da função de converção para Binário
+### Flowchart of function of the convert to binary
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/66230638/146640046-59e3592e-c474-492b-823f-2dc0fb78592e.png" width="800px" />
 </div>
 
-### Fluxograma do funcionamento da função de converção para Octagonal
+### Flowchart of function of the convert to octagonal
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/66230638/146669223-9a4858f4-ed29-47a3-842c-b1f7bcaf9a94.png" width="800px" />
 </div>
 
-### Fluxograma do funcionamento da função de converção para Hexadecimal
+### Flowchart of function of the convert to hexadecimal
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/66230638/146669224-6b5f170b-29c8-4379-86d8-2b0e2e7e964e.png" width="800px" />
 </div>
-
-## Detalhes
-
-Números convertidos na base binária ou octagonal, retornam valores em tipo Int, enquanto números convertidos em hexadecimal retornam uma string.
-Por enquanto o programa só pode converter números decimais para outras bases, mas em breve, poderá converter de qualquer base para qualquer outra base. Assim espero.
