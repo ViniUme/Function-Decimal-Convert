@@ -4,12 +4,11 @@
   <a href="https://github.com/ViniUme/Function-Decimal-Convert/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/ViniUme/Function-Decimal-Convert?color=%236253CB&style=for-the-badge"></a>
 </div>
 
-<details>
-  <summary>Traduções</summary>
+## Traduções
   
-  - [English](./README.md)
-  
-</details>
+- [English](./README.md)
+
+<br>
 
 ## Sobre
 Um grupo de funções dentro de uma, para converter números decimais em outras bases numéricas, sendo elas: binario, octagonal e hexadecimal.
