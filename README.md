@@ -8,6 +8,7 @@
   
 - [Português Brasileiro](translations/README.md)
 
+<br>
 
 ## About
 A functions group inside in one function, to convert decimal numbers to others numbers bases, being then: binary, octagonal and hexadecimal.
