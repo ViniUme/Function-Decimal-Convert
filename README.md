@@ -4,6 +4,13 @@
   <a href="https://github.com/ViniUme/Function-Decimal-Convert/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/ViniUme/Function-Decimal-Convert?color=%236253CB&style=for-the-badge"></a>
 </div>
 
+<details>
+  <summary>Traduções</summary>
+  
+  - [Português Brasileiro](translations/README.md)
+  
+</details>
+
 ## About
 A functions group inside in one function, to convert decimal numbers to others numbers bases, being then: binary, octagonal and hexadecimal.
 
