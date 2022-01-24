@@ -6,7 +6,7 @@
 
 ## Traduções
   
-- [Português Brasileiro](translations/README.md)
+- [Português Brasileiro](translations/README-ptbr.md)
 
 <br>
 
