@@ -6,7 +6,7 @@
 
 ## Traduções
   
-- [Português Brasileiro](translations/README-ptbr.md)
+- [Português Brasileiro](https://github.com/ViniUme/Function-Decimal-Convert/blob/master/translations/README-ptbr.md)
 
 <br>
 
